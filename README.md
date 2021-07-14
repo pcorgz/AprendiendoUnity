@@ -4,3 +4,5 @@ Estoy intentando replicar algunos juegos sin copiar código de otros como reto p
 
 en:
 I'm triying to replicate some games without copying code from others just to challenge myself.
+
+Unity Version: 2020.3.11f1
